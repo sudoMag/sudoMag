@@ -1,5 +1,6 @@
 <h1>Hi🖖, I'm Manuel Casanova<h/1>
   <h3>self taught front-end developer</h3>
+  <h3>Frescolita🥤 & TypeScript💙 Fanboy</h3>
 
 <!---
 sudoMag/sudoMag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
